@@ -9,7 +9,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Python%20Developer;Python%20Full%20Stack%20Learner;Java%20Learner;Always%20Learning%20New%20Things;">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Full%20Stack%20Developer;Backend%20Development%20Enthusiast;Building%20Web%20Applications;Always%20Learning%20New%20Things;">
+
+
   </a>
 </p>
 
@@ -23,11 +25,12 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I am an **Aspiring Python Full Stack Developer**
-- 📚 Currently learning **Python, Java, SQL and Web Development**
+- 💻 I am an **Python Full Stack Developer**
+- 📚 Skilled in **Python, JavaScript, Django, MySQL and Web Development**
 - 🌱 Exploring **Django Framework and Backend Development**
 - 💡 Passionate about coding and problem solving
 - 🎯 Goal: Become a professional Full Stack Developer
+- 🧩  Building real world web applications
 - 📍 From Andhra Pradesh, India
 
 ---
@@ -87,6 +90,7 @@
 <div align="center">
 <a href="mailto:amilinenijayaprakash7@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   
 </a>
 
 <a href="https://www.linkedin.com/in/amilineni-jayaprakash-naidu-772566382?utm_source=share_via&utm_content=profile&utm_medium=member_android">
